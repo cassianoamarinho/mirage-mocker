@@ -8,7 +8,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/miraeducation/mirage-mocker/config"
+	"github.com/cassianoamarinho/mirage-mocker/config"
 )
 
 // Transform plugin structure

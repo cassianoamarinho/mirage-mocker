@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/miraeducation/mirage-mocker/config"
-	"github.com/miraeducation/mirage-mocker/processor"
+	"github.com/cassianoamarinho/mirage-mocker/config"
+	"github.com/cassianoamarinho/mirage-mocker/processor"
 )
 
 type miraFormatter struct{}

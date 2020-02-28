@@ -8,7 +8,7 @@ import (
 
 	"testing"
 
-	"github.com/miraeducation/mirage-mocker/config"
+	"github.com/cassianoamarinho/mirage-mocker/config"
 	"github.com/stretchr/testify/assert"
 )
 
